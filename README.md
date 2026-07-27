@@ -1,5 +1,5 @@
 # Kodak DCS Software Archive
-Archive of Kodak DCS software, original installers, firmware, file format modules and compatibility resources.
+Archive of software, firmware and documentation for the Kodak DCS cameras in my collection.
 
 ## Copyright Notice
 This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
