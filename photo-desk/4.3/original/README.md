@@ -6,6 +6,12 @@ This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 instal
 
 - `photo_desk_v_4_3_0.exe` – Original Kodak DCS Photo Desk 4.3 installer.
 
+## SHA-256
+
+```
+C36F6182B733F62B21300A85A97FEFB14A4A43E7E74A7C96EE9FC3FF1D25841D
+```
+
 ## Status
 
 - Original file
