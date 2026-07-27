@@ -1,12 +1,12 @@
 # Windows 10/11 Compatibility
 
-This directory contains a replacement `KodakCMS.dll` required to run the original Kodak DCS Photo Desk 4.3 on modern versions of Microsoft Windows.
+This directory contains a replacement `kodakcms.dll` required to run the original Kodak DCS Photo Desk 4.3 on modern versions of Microsoft Windows.
 
 ## File Information
 
 | Property | Value |
 |----------|-------|
-| File | `KodakCMS.dll` |
+| File | `kodakcms.dll` |
 | Description | Kodak Color Management |
 | Original filename | `KodakCMS.dll` |
 | File version | 5.2.5.0 |
@@ -29,7 +29,7 @@ This directory contains a replacement `KodakCMS.dll` required to run the origina
 
    `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`
 
-3. Replace the original `KodakCMS.dll` with the version provided in this directory.
+3. Replace the original `kodakcms.dll` with the version provided in this directory.
 
 ## Tested
 
