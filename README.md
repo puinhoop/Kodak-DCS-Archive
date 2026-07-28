@@ -1,5 +1,5 @@
 # Kodak DCS Software Archive
-Archive of useful software, firmware, documentation and compatibility resources for the Kodak DCS cameras in my personal collection.
+Curated archive of useful software, firmware, documentation and compatibility resources for the Kodak DCS cameras in my personal collection.
 
 ## My Personal Collection
 DCS cameras:
