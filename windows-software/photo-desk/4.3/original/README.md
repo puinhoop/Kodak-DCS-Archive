@@ -13,7 +13,7 @@ This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 instal
 | Product name | KODAK DCS Photo Desk |
 | Product version | 4.3.0b11.12 |
 | Architecture | x86 (32-bit) |
-| File size | 14,3 MB |
+| File size | 14.38 MB |
 | SHA-256 | C36F6182B733F62B21300A85A97FEFB14A4A43E7E74A7C96EE9FC3FF1D25841D |
 | VirusTotal | https://www.virustotal.com/gui/file/C36F6182B733F62B21300A85A97FEFB14A4A43E7E74A7C96EE9FC3FF1D25841D |
 
@@ -35,9 +35,10 @@ For Windows 10 and Windows 11 compatibility files, see:
 
 ## Notes
 
-Kodak DCS Photo Desk 4.3 supports Kodak DCS Pro cameras including the DCS Pro 14n, DCS Pro SLR/n and DCS Pro SLR/c.
+Support for several older Kodak DCS models (including the DCS 200, DCS 400 and EOS DCS series) was removed compared to Photo Desk 4.2.
 
-Support for some older Kodak DCS models was removed compared to Photo Desk 4.2.
+**Important**
+Photo Desk 4.3 is **not** limited to DCR files. It also supports the TIFF-based Kodak RAW format used by the DCS 315, DCS 330, DCS 520, DCS 560, DCS 620, DCS 620x, DCS 660 and DCS 660M, in addition to later DCR-based models such as the DCS 720x, DCS 760, DCS Pro 14n, DCS Pro SLR/n and DCS Pro SLR/c.
 
 ## Copyright
 
