@@ -1,6 +1,6 @@
 # 12-bit DCR Compatibility
 
-This directory contains a replacement `DCSPro4SLR.dll` required to properly handle 12-bit uncompressed DCR files.
+This directory contains a replacement `DCSPro4SLR.dll` required to properly handle 12-bit uncompressed DCR files in Kodak DCS Photo Desk 4.3.
 
 ## Credits
 
