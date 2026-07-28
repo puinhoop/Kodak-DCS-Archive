@@ -15,12 +15,8 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 | Architecture | x86 (32-bit) |
 | File size | 541 KB |
 | Language | English (United States) |
-
-## SHA-256
-
-```
-16C1FE3A5EEC772B8C46C7186F1FC389EFCEED0C2F8186BA9EB40853A491B809
-```
+| SHA-256 | 16C1FE3A5EEC772B8C46C7186F1FC389EFCEED0C2F8186BA9EB40853A491B809 |
+| VirusTotal | https://www.virustotal.com/gui/file/16C1FE3A5EEC772B8C46C7186F1FC389EFCEED0C2F8186BA9EB40853A491B809 |
 
 ## Installation
 
