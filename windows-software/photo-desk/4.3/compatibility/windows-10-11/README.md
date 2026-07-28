@@ -28,7 +28,7 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 
    `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`
 
-4. Replace the original `kodakcms.dll` with the newer version provided in this directory.
+4. Replace the original `kodakcms.dll` with the [newer version](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/windows-10-11/kodakcms.dll) provided in this GitHub directory.
 
 ## Tested
 
