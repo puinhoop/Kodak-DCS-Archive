@@ -10,6 +10,8 @@ DCS cameras:
 Nikon lenses:
 - AF Nikkor 20mm f/2.8D 
 - AF Nikkor 35mm f/2.0D
+- AF Nikkor 50mm f/1.8D
+- AF Nikkor 85mm f/1.8D
 
 ## Copyright Notice
 This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
