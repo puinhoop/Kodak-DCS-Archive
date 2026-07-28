@@ -20,7 +20,12 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 
 ## Installation
 
-1. Install the original Kodak DCS Photo Desk 4.3.
+1. Install the original Kodak DCS Photo Desk 4.3:
+
+```
+../../orginal/
+```
+
 2. Navigate to:
 
    `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`
