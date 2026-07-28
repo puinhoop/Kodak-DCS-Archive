@@ -37,7 +37,7 @@ For Windows 10 and Windows 11 compatibility files, see:
 
 Support for several older Kodak DCS models (including the DCS 200, DCS 400 and EOS DCS series) was removed compared to Photo Desk 4.2.
 
-**Important**
+**Important:**
 Photo Desk 4.3 is **not** limited to DCR files. It also supports the TIFF-based Kodak RAW format used by the DCS 315, DCS 330, DCS 520, DCS 560, DCS 620, DCS 620x, DCS 660 and DCS 660M, in addition to later DCR-based models such as the DCS 720x, DCS 760, DCS Pro 14n, DCS Pro SLR/n and DCS Pro SLR/c.
 
 ## Copyright
