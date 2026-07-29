@@ -38,3 +38,11 @@ The `DCSPro4SLR.dll` included in this directory is **identical** to Alexey Danil
 
 - Windows 10 x64
 - Windows 11 x64
+
+## Copyright Notice
+
+Kodak Professional DCS Pro 4 SLR SDK is copyrighted software.
+
+All trademarks and copyrights remain the property of their respective owners.
+
+This compatibility file is provided for archival, preservation and interoperability purposes.
