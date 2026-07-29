@@ -26,11 +26,13 @@ The `DCSPro4SLR.dll` included in this repository is **identical** to Alexey Dani
 
 ## Installation
 
-1. Navigate to:
+1. Make sure that Photo Desk 4.3 is completely closed before proceeding.
+
+2. Navigate to:
 
    `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`
 
-2. Replace the original `DCSPro4SLR.dll` with the [newer version](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR/DCSPro4SLR.dll) provided in this GitHub directory.
+3. Replace the original `DCSPro4SLR.dll` with the [newer version](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR/DCSPro4SLR.dll) provided in this GitHub directory.
 
 ## Tested
 
