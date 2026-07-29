@@ -4,7 +4,7 @@ This directory contains the original, unmodified Kodak Professional DCS Custom L
 
 Also included is a high-quality PDF version of the official ReadMe.html, extracted directly from the original installer for easier viewing.
 
-The DCS Custom Looks ICC Profiles can be used by [Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software/photo-desk/4.3)
+The DCS Custom Looks ICC Profiles can be used by [Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software/photo-desk/4.3/original)
 
 ## File Information
 
