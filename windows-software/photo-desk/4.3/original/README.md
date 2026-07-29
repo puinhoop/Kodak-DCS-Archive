@@ -46,4 +46,4 @@ Kodak DCS Photo Desk is copyrighted software.
 
 All copyrights and trademarks remain the property of their respective owners.
 
-This repository preserves the original software for archival, research and interoperability purposes.
+This repository preserves the original software and user manuals for archival, research and interoperability purposes.
