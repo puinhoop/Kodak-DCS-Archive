@@ -1,4 +1,4 @@
-# Kodak DCS Photo Desk 4.3 (Original)
+# Kodak DCS Photo Desk 4.3.0.13 (x86)
 
 This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 installer.
 
