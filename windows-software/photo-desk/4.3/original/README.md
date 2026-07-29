@@ -22,16 +22,13 @@ This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 instal
 - Original file
 - Unmodified
 - No patches applied
+  
+**Officially supported operating systems:**
+  - Windows XP
+  - Windows Vista
+  - Windows 7
 
-## Compatibility
-
-This is the original Kodak release.
-
-For Windows 10 and Windows 11 compatibility files, see:
-
-```
-../compatibility/windows-10-11/
-```
+**Released:** March 30, 2012 (before the release of Windows 8)
 
 ## Notes
 
