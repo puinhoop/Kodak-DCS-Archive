@@ -6,15 +6,15 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 
 | Property | Value |
 |----------|-------|
-| File | `kodakcms.dll` |
-| Description | Kodak Color Management |
-| Original filename | `KodakCMS.dll` |
+| Filename | `kodakcms.dll` |
+| File description | Kodak Color Management Module |
 | File version | 5.2.5.0 |
-| Product | Kodak Professional Color Management System |
+| Product name |  Kodak Professional ColorFlow CMM |
 | Product version | 5.2.005 |
-| Architecture | x86 (32-bit) |
-| File size | 541 KB |
+| File size | 541 kB |
 | Language | English (United States) |
+| Original filename | `KodakCMS.dll` |
+| Architecture | x86 (32-bit) |
 | SHA-256 | 16C1FE3A5EEC772B8C46C7186F1FC389EFCEED0C2F8186BA9EB40853A491B809 |
 | VirusTotal | https://www.virustotal.com/gui/file/16C1FE3A5EEC772B8C46C7186F1FC389EFCEED0C2F8186BA9EB40853A491B809 |
 
@@ -37,7 +37,7 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 
 ## Copyright Notice
 
-Kodak DCS Photo Desk and Kodak Professional Color Management System are copyrighted software.
+Kodak DCS Photo Desk and Kodak Professional ColorFlow CMM are copyrighted software.
 
 All trademarks and copyrights remain the property of their respective owners.
 
