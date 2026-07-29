@@ -1,6 +1,6 @@
 # Kodak DCS Photo Desk 4.3.0.13 (x86)
 
-This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 installer.
+This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 installer which was released on March 30, 2012 (i.e. before the release of Windows 8).
 
 ## File Information
 
@@ -17,18 +17,11 @@ This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 instal
 | SHA-256 | C36F6182B733F62B21300A85A97FEFB14A4A43E7E74A7C96EE9FC3FF1D25841D |
 | VirusTotal | https://www.virustotal.com/gui/file/C36F6182B733F62B21300A85A97FEFB14A4A43E7E74A7C96EE9FC3FF1D25841D |
 
-## Status
+## Officially Supported Operating Systems
 
-- Original file
-- Unmodified
-- No patches applied
-  
-**Officially supported operating systems:**
-  - Windows XP
-  - Windows Vista
-  - Windows 7
-
-**Released:** March 30, 2012 (before the release of Windows 8)
+- Windows XP
+- Windows Vista
+- Windows 7
 
 ## Notes
 
