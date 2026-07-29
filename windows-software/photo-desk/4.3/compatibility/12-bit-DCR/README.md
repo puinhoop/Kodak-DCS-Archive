@@ -17,7 +17,7 @@ The `DCSPro4SLR.dll` included in this directory is **identical** to Alexey Danil
 | File version | 2.6.1.3 |
 | Product name | Kodak Professional DCS Pro 4 SLR SDK |
 | Product version | 2, 6, 1, 3 |
-| File size | 541 kB |
+| File size | 512 kB |
 | Language | English (United States) |
 | Original filename | `DCSPro4SLR.dll` |
 | Architecture | x86 (32-bit) |
