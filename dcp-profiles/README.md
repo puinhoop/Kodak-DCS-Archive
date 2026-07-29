@@ -1,6 +1,6 @@
 # DCP Profiles for Adobe Lightroom Classic & Camera Raw
 
-This directory contains some DCP profiles for Kodak DCS Pro 14nx, SLR/n, and SLR/c which you can use in Adobe Lightroom Classic & Camera Raw. For each DCP profile, two versions are provided: one with standard Lightroom/ACR curve and one with linear curve.
+This directory contains DCP camera profiles for Kodak DCS Pro 14nx, SLR/n, and SLR/c which you can use in Adobe Lightroom Classic & Camera Raw. For each DCP profile, two versions are provided: one with standard Lightroom/ACR curve and one with linear curve.
 
 ## Credits
 
