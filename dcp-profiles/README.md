@@ -6,7 +6,7 @@ This directory contains DCP camera profiles for Kodak DCS Pro 14nx, SLR/n, and S
 
 [Alexey Danilchenko](https://github.com/Alexey-Danilchenko) has developed a command-line utility [dcrprofile](https://github.com/Alexey-Danilchenko/Kodak-DCS-Tools/blob/master/sources/dcrprofile/bin) to extract data from DCR files and generate camera profiles from this extracted data.
 
-The DCP profiles included in this directory are **identical** to the [DCP profiles provided by Alexey Danilchenko](https://drive.google.com/file/d/0Bw2ZohnbXtyAUVI5RmFOTC1VNG8/view?resourcekey=0-KvA62UK8Msp0KuE3gGLWvQ) and is redistributed here solely to ensure its long-term preservation and availability.
+The DCP profiles included in this directory are **identical** to the [DCP profiles provided by Alexey Danilchenko](https://drive.google.com/file/d/0Bw2ZohnbXtyAUVI5RmFOTC1VNG8/view?resourcekey=0-KvA62UK8Msp0KuE3gGLWvQ) and are redistributed here solely to ensure their long-term preservation and availability.
 
 ## Installation
 
