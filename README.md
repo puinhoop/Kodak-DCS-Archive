@@ -4,7 +4,7 @@ Curated archive of useful software, firmware, documentation and compatibility re
 ## My Personal Collection
 DCS cameras:
 - Kodak DCS 620
-- Kodak DCS 760
+- Kodak DCS 720x
 - Kodak DCS Pro SLR/n
   
 Nikon lenses:
