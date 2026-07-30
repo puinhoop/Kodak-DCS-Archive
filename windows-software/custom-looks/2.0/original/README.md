@@ -29,7 +29,7 @@ The DCS Custom Looks ICC Profiles can be used by [Photo Desk 4.3](https://github
 
 ## Windows 10/11 Compatibility
 
-You can use the original installer by executing the EXE file in compatibility mode for Windows XP (Service Pack 3), or manually install the ICM files.
+You can use the original installer by executing the EXE file in compatibility mode for Windows XP (Service Pack 3), or [manually install the ICM files](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software/custom-looks/2.0/compatibility/windows-10-11).
 
 ## Copyright Notice
 
