@@ -26,7 +26,7 @@ The `DCSPro4SLR.dll` included in this directory is **identical** to Alexey Danil
 
 ## Installation
 
-1. Make sure that Photo Desk 4.3 is completely closed before proceeding.
+1. Make sure that [Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software/photo-desk/4.3/original) is installed and completely closed before proceeding.
 
 2. Navigate to:
 
@@ -45,4 +45,4 @@ Kodak Professional DCS Pro 4 SLR SDK is copyrighted software.
 
 All trademarks and copyrights remain the property of their respective owners.
 
-This compatibility file is provided for archival, preservation and interoperability purposes.
+This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
