@@ -1,6 +1,6 @@
 # Kodak DCS Photo Desk 4.3.0.13 (x86)
 
-This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 installer which was released on March 30, 2012 (i.e. before the release of Windows 8). This is the very last version of Photo Desk that Kodak released.
+This directory contains the original, unmodified Kodak DCS Photo Desk 4.3 installer which was released on March 30, 2012 (i.e. right before the release of Windows 8). This is the very last version of Photo Desk that Kodak has released.
 
 ## File Information
 
