@@ -1,9 +1,9 @@
-# Firmware for Kodak DCS series
-This directory contains the latest official firmware for Kodak DCS series.
+# Kodak DCS Series Firmware
+This directory contains the latest official firmware for Kodak DCS Series.
 
 ## Copyright Notice
 
-Kodak DCS series firmware is copyrighted software.
+Kodak DCS Series firmware is copyrighted software.
 
 All copyrights and trademarks remain the property of their respective owners.
 
