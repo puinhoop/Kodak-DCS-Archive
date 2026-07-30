@@ -18,4 +18,4 @@ This repository preserves historical Kodak DCS software and documentation for ar
 
 All trademarks and copyrights remain the property of their respective owners.
 
-If you are the copyright holder and believe any content should be removed, please open an issue or contact me.
+If you are the copyright holder and believe any content should be removed, please [open an issue](https://github.com/puinhoop/Kodak-DCS-Software-Archive/issues) or contact me.
