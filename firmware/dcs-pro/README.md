@@ -1,6 +1,6 @@
-# Firmware for Kodak DCS Pro series
+# Unofficial Kodak DCS Pro Series Firmware
 
-This directory contains the latest, unofficial firmware for the Kodak DCS Pro series. 
+This directory contains the latest unofficial firmware for the Kodak DCS Pro series. 
 
 The last official firmware from Kodak is version is 5.4.6 
 
@@ -25,7 +25,7 @@ The BIN files included in this directory are **identical** to the [BIN files pro
 
 ## Copyright Notice
 
-Kodak DCS Pro series firmware is copyrighted software.
+Kodak DCS Pro Series firmware is copyrighted software.
 
 All copyrights and trademarks remain the property of their respective owners.
 
