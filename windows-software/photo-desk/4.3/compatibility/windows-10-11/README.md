@@ -41,4 +41,4 @@ Kodak DCS Photo Desk and Kodak Professional ColorFlow CMM are copyrighted softwa
 
 All trademarks and copyrights remain the property of their respective owners.
 
-This compatibility file is provided for archival, preservation and interoperability purposes.
+This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
