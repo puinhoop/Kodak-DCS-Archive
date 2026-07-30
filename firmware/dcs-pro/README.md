@@ -22,3 +22,11 @@ This custom version was coded by [Alexey Danilchenko](https://github.com/Alexey-
 - Remove annoyances on popup dialog.
 
 The BIN files included in this directory are **identical** to the [BIN files provided by Alexey Danilchenko](https://github.com/Alexey-Danilchenko/Kodak-DCS-Tools/tree/master/Firmwares#kodak-dcs-14nx-slrn-%D0%B8-slrc-firmwares) and are redistributed here solely to ensure their long-term preservation and availability.
+
+## Copyright Notice
+
+Kodak DCS Pro series firmware is copyrighted software.
+
+All copyrights and trademarks remain the property of their respective owners.
+
+This repository preserves the original software and documentation for archival, research and interoperability purposes.
