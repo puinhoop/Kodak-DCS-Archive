@@ -1,4 +1,4 @@
-# Unofficial Kodak DCS Pro Series Firmware
+# Kodak DCS Pro Series Unofficial Firmware
 
 This directory contains the latest unofficial firmware for the Kodak DCS Pro series. 
 
