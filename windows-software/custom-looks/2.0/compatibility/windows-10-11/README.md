@@ -26,4 +26,4 @@ Kodak Professional DCS Custom Looks is copyrighted software.
 
 All trademarks and copyrights remain the property of their respective owners.
 
-These ICC profiles are provided for archival, preservation and interoperability purposes.
+This repository preserves historical Kodak DCS software and documentation for archival, research and interoperability purposes.
