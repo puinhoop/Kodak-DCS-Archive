@@ -12,7 +12,7 @@ This directory contains instructions to install and run the original Kodak Profe
 
    `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`
 
-4. Right-click `CamMan.exe` and select **Properties**. On the **Compatibility** tab, enable **Run this program in compatibility mode for:**, and select **Windows XP (Service Pack 3)** from the drop-down list. Click **Apply**, and then **OK** to save the changes. After enabling Windows XP SP3 compatibility, Camera Manager will correctly detect the bundled camera drivers.
+4. Right-click `CamMan.exe` and select **Properties**. On the **Compatibility** tab, enable **Run this program in compatibility mode for:**, and select **Windows XP (Service Pack 3)** from the drop-down list. Click **Apply**, and then **OK** to save the changes. After enabling Windows XP SP3 compatibility, Camera Manager will correctly detect its bundled camera drivers.
    
 5. Replace the original `kodakcms.dll` (version 5.1.1.0) with the [newer version](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/windows-10-11/kodakcms.dll) (5.2.5.0).
 
