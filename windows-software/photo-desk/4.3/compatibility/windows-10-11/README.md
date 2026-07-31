@@ -20,7 +20,7 @@ This directory contains a replacement `kodakcms.dll` required to run the origina
 
 ## Installation
 
-1. Install the [original Kodak DCS Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/original/photo_desk_v_4_3_0.exe).
+1. Download and install the [original Kodak DCS Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/original/photo_desk_v_4_3_0.exe).
 
 2. Once the installation is complete, Photo Desk 4.3 will launch automatically. Close the application completely before proceeding.
 
