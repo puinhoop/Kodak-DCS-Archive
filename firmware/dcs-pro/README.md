@@ -11,7 +11,7 @@ The last official firmware from Kodak is version is 5.4.6
 
 - You must not rename the enclosed BIN file, or your camera will not recognise it when selecting the Update function in the camera's Menu.
 
-- Each camera has **two firmwares**. Therefore, ensure that you carry out the camera Firmware Update procedure **TWICE IN SUCCESSION**, or the camera may revert to the older version of the software at any time in the future and without warning.
+- Each DCS Pro camera has **two firmware areas**. Therefore, ensure that you carry out the camera Firmware Update procedure **TWICE IN SUCCESSION**, or the camera may revert to the older version of the software at any time in the future and without warning.
 
 ## 5.4.9 Beta
 This version was coded by Kodak's engineer Jim McGarvey and is dated September 6, 2006. Very little is known about the changes incorporated into this latest release (in comparison with 5.4.6). It is marked as Beta because it never got any official testing. 
