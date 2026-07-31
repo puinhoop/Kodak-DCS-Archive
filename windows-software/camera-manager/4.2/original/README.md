@@ -1,5 +1,5 @@
 # Kodak Professional DCS Camera Manager 4.2.0.3 (x86)
-This directory contains the original, unmodified Kodak Professional DCS Camera Manager 4.2.0 installer which was released in 2002. This is the very last version of Camera Manager that Kodak has officially released.
+This directory contains the original, unmodified Kodak Professional DCS Camera Manager 4.2 installer which was released in 2002. This is the very last version of Camera Manager that Kodak has officially released.
 
 ## File Information
 
