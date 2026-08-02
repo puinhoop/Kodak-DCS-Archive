@@ -5,7 +5,7 @@ Curated archive of useful software, firmware, documentation and compatibility re
 DCS cameras:
 - Kodak DCS 620
 - Kodak DCS 720x
-- Kodak DCS Pro SLR/n
+- Kodak DCS Pro SLR/n (firmware [5.4.10](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/firmware/dcs-pro/5.4.10))
   
 Nikon lenses:
 - AF Nikkor 20mm f/2.8D 
