@@ -36,7 +36,7 @@ The `DCSPro4SLR.dll` included in this directory is **identical** to Alexey Danil
 
 4. Download the [replacement DCSPro4SLR.dll](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR/DCSPro4SLR.dll) and copy to `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`.
 
-5. In case you need to open non 12-bit raw files, first rename `DCSPro4SLR.dll` to `DCSPro4SLR-12bit.dll` and then `DCSPro4SLR-original.dll` to `DCSPro4SLR.dll`.
+5. The replacement DCSPro4SLR.dll makes Photo Desk 4.3 only supporting 12-bit DCR files. In case you need to open non 12-bit raw files, first rename `DCSPro4SLR.dll` to `DCSPro4SLR-12bit.dll` and then `DCSPro4SLR-original.dll` to `DCSPro4SLR.dll`.
 
 ## Tested
 
