@@ -29,7 +29,7 @@ The DCS Custom Looks ICC Profiles can be used by [Photo Desk 4.3](https://github
 
 ## Windows 10/11 Compatibility
 
-1. Download the [original installer](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/custom-looks/2.0/original/CustomLooks_V_2_0_0.exe). Do not install yet because you will get a **Operating system not supported** message.
+1. Download the [original installer](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/custom-looks/2.0/original/CustomLooks_V_2_0_0.exe). Do not try to install yet because the installation process will be aborted with the message **Operating system not supported**.
    
 2. Right-click `CustomLooks_V_2_0_0.exe` and select **Properties**. On the Compatibility tab, enable **Run this program in compatibility mode for:**, and select **Windows XP (Service Pack 3)** from the drop-down list. Click **Apply**, and then **OK** to save the changes.
 
