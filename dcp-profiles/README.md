@@ -17,3 +17,5 @@ The DCP profiles included in this directory are **identical** to the [DCP profil
 2. Extract `Kodak_DCS_DCP_Profiles.zip` and copy the extracted DCP files to the following directory:
 
    `C:\Users\<your username>\AppData\Roaming\Adobe\CameraRaw\CameraProfiles`
+
+**Note:** Lightroom Classic & ACR will always load the default ACR 4.4 profile. If you want to use these specific camera profiles, you need to manually select them. 
