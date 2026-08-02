@@ -1,6 +1,6 @@
 # 12-bit DCR Compatibility
 
-The replacement `DCSPro4SLR.dll` developed by [Alexey Danilchenko](https://github.com/Alexey-Danilchenko) in order to properly handle 12-bit DCR files in Kodak DCS Photo Desk 4.3, can be used for Camera Manager 4.2 as well.
+The replacement `DCSPro4SLR.dll` developed by [Alexey Danilchenko](https://github.com/Alexey-Danilchenko) in order to properly handle [12-bit DCR files in Kodak DCS Photo Desk 4.3](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR), can be used for Camera Manager 4.2 as well.
 
 ## Installation
 
