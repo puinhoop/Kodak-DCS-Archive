@@ -14,6 +14,6 @@ The DCP profiles included in this directory are **identical** to the [DCP profil
 
 1. Download [Kodak_DCS_DCP_Profiles.zip](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/dcp-profiles/Kodak_DCS_DCP_Profiles.zip)
 
-2. Extract `Kodak_DCS_DCP_Profiles.zip` and copy the extracted folders to the following directory, preserving its existing folder structure:
+2. Extract `Kodak_DCS_DCP_Profiles.zip` and copy the extracted DCP files to the following directory:
 
-   `C:\ProgramData\Adobe\CameraRaw\CameraProfiles\`
+   `C:\Users\<your username>\AppData\Roaming\Adobe\CameraRaw\CameraProfiles`
