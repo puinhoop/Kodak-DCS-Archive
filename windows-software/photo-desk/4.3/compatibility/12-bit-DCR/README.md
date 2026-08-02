@@ -34,7 +34,7 @@ The `DCSPro4SLR.dll` included in this directory is **identical** to Alexey Danil
 
 3. Rename the existing `DCSPro4SLR.dll` to `DCSPro4SLR-original.dll`.
 
-4. Download the [newer version](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR/DCSPro4SLR.dll) and copy the DLL file to `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`.
+4. Download the [replacement version of DCSPro4SLR.dll](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/photo-desk/4.3/compatibility/12-bit-DCR/DCSPro4SLR.dll) and copy to `C:\Program Files (x86)\Kodak\KODAK DCS Photo Desk\`.
 
 5. In case you need to open non 12-bit raw files, rename `DCSPro4SLR.dll` to `DCSPro4SLR-12bit.dll` and the `DCSPro4SLR-original.dll` to `DCSPro4SLR.dll`.
 
