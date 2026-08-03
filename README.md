@@ -7,9 +7,9 @@ Rather than keeping this work private, I decided to make it publicly available s
 
 ## My Personal Collection
 DCS cameras:
-- Kodak DCS 620
-- Kodak DCS 720x
-- Kodak DCS Pro SLR/n (firmware [5.4.10](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/firmware/dcs-pro#5410-custom))
+- [Kodak DCS 620](https://en.wikipedia.org/wiki/Kodak_DCS)
+- [Kodak DCS 720x](https://en.wikipedia.org/wiki/Kodak_DCS)
+- [Kodak DCS Pro SLR/n](https://en.wikipedia.org/wiki/Kodak_DCS_Pro_SLR/n) (firmware [5.4.10](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/firmware/dcs-pro#5410-custom))
   
 Nikon lenses:
 - AF Nikkor 20mm f/2.8D 
