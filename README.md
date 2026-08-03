@@ -6,7 +6,7 @@ I have spent a considerable amount of time tracking down  [original software](ht
 Rather than keeping this work private, I decided to make it publicly available so that other Kodak DCS users can benefit from it as well. My hope is that this archive helps preserve these cameras, simplifies their continued use on modern systems, and saves others the time and effort that went into researching, testing, and documenting these resources.
 
 ## My Personal Collection
-DCS cameras:
+Kodak DCS cameras:
 - [Kodak DCS 620](https://en.wikipedia.org/wiki/Kodak_DCS)
 - [Kodak DCS 720x](https://en.wikipedia.org/wiki/Kodak_DCS)
 - [Kodak DCS Pro SLR/n](https://en.wikipedia.org/wiki/Kodak_DCS_Pro_SLR/n) (firmware [5.4.10](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/firmware/dcs-pro#5410-custom))
