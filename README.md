@@ -1,5 +1,5 @@
 # Kodak DCS Software & Resources Archive
-[This GitHub repository](https://github.com/puinhoop/Kodak-DCS-Software-Archive) is a curated archive of software, firmware, documentation, and compatibility resources for the Kodak DCS cameras in my personal collection.
+This repisotory is a curated archive of software, firmware, documentation, and compatibility resources for the Kodak DCS cameras in my personal collection.
 
 I have spent a considerable amount of time tracking down  [original software](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/windows-software), [firmware](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/firmware), [documentation](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/user-manuals), and [other resources](https://github.com/puinhoop/Kodak-DCS-Software-Archive/tree/main/dcp-profiles) that have become increasingly difficult to find. In addition, I have documented, tested, and verified their compatibility with modern versions of Windows, most notably Windows 10 and Windows 11.
 
