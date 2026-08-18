@@ -6,7 +6,7 @@ This directory contains instructions to install and run the original Kodak Profe
 
 1. Download and install the [original Kodak Professional DCS Camera Manager 4.2](https://github.com/puinhoop/Kodak-DCS-Software-Archive/blob/main/windows-software/camera-manager/4.2/original/Camera_Manager_V_4_2.exe).
 
-2. Once the installation is complete, restart your computer as asked by the installer.
+2. Once the installation process has finished, restart your computer as asked by the installer.
 
 3. Navigate to:
 
